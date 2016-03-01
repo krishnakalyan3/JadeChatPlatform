@@ -1,4 +1,6 @@
-#Start Chat Server
+Jade Chat Platform
+
+###Start Chat Server
 
 cd /standard/bin
 

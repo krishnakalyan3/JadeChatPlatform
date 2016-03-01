@@ -1,6 +1,7 @@
 #Start Chat Server
 
-/standard/bin
+cd /standard/bin
+
 ./startPlatform.sh
 
 ###Start Chat Participant 1
